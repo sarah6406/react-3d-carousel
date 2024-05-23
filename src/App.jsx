@@ -61,7 +61,7 @@ function App() {
         <Card
           image="https://techeducators.co.uk/_next/image?url=%2Fimg%2Fstaff%2FTimTech.png&w=640&q=75"
           title="Tim is very handsome."
-          paragraph="Colin's description of Tim's handsomeness."
+          paragraph="Gurning champion Timothy is one of the most handsomest men in his skin. He has more hair than almost any other slaphead, and is in possession of a cruel streak evidenced by his callous removal of Manny and Joe from SD09."
         />
       ),
     },
